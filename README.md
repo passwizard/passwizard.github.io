@@ -1,1 +1,1 @@
-# passwizard
+# PassWizard
